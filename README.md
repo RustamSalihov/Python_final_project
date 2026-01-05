@@ -8,7 +8,7 @@
 ## 📁 Структура проекта
 ```
 project/
-├── project.ipynb          # Основной Jupyter Notebook с анализом
+├── project.ipynb         # Основной Jupyter Notebook с анализом
 ├── orders.xlsx           # Данные о заказах
 ├── products.xlsx         # Данные о товарах
 └── README.md             # Документация проекта
